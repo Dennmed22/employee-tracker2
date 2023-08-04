@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node index"
   },
-  "author": "",
+  "author": "Dennmed22",
   "license": "ISC",
   "dependencies": {
     "asciiart-logo": "^0.2.6",
